@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ASUSCLOUD.STORAGE</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_me_">Click me!</string>
+    <string name="sid">SID</string>
+    <string name="progkey">progKey</string>
+    <string name="uid">username</string>
+    <string name="pwd">password</string>
+
+</resources>

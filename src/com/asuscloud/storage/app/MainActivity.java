@@ -36,10 +36,10 @@ public class MainActivity extends Activity {
 	 *  username:webstorage ID
 	 *  password: webstorage password
 	 */
-	private String sid="29660478";
-	private String progKey="0A6CBBD8584B47F5A0A070E9A16C1BA3";
-	private String username="melissa.lin@asuscloud.com";
-	private String password="19870418@asus";
+	private String sid="";
+	private String progKey="";
+	private String username="";
+	private String password="";
 	
     @Override
 	protected void onCreate(Bundle savedInstanceState) {
